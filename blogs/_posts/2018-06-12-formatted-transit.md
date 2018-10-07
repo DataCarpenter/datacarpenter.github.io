@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Nicely formatted transit schedules"
 author: Hann
 categories: [ transportation]
 image: https://hann.io/assets/img/menetrend_schedule_explorer.png
